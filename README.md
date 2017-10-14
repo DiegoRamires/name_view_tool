@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+NameViewTool::Renderer.copyright 'Diego Ramires', 'All rights reserved'
+```
 
 ## Development
 
